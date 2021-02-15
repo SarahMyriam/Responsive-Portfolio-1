@@ -1,0 +1,14 @@
+header{
+    background: #333;
+}
+.container{
+    background: #eee;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+footer{
+    background:#333;
+    margin: auto;
+    padding: 10px;
+}
