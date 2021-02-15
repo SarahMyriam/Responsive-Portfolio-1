@@ -17,8 +17,8 @@ header{
 #about-me{
     color: #ffc266;
 }
-.para-container{
-    float: right;
+.navbar-brand{
+    color: #ffd699;
 }
 /*portfolio*/
 #portfolio{
